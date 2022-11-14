@@ -52,7 +52,7 @@ const html = `
   </head>
   <body>
     <section>
-      Hello from Render!
+      HEROKU/NETLIFY SUCCESSOR! MENFOU GRATUIT!
     </section>
   </body>
 </html>
